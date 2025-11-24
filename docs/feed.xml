@@ -6,7 +6,7 @@
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
 
   <channel>
-    <!-- URL del propio feed -->
+    <!-- URL DEL PROPIO FEED -->
     <atom:link rel="self" type="application/rss+xml" href="https://frikismopuro.github.io/fp/feed.xml" />
 
     <!-- DATOS GENERALES DEL PODCAST -->
@@ -15,8 +15,10 @@
     <language>es-es</language>
 
     <itunes:author>Frikismo Puro</itunes:author>
-    <itunes:summary>Somos unos apasionados de la tecnología, geeks y cacharreros. Grabamos también sobre Frikadas varias que nos gustan como series, películas y videojuegos. Utilizamos iPhone y Android. Fran - @franciscomalaka y Juan - @Purojota frikismopuro@gmx.es</itunes:summary>
-    <description>Somos unos apasionados de la tecnología, geeks y cacharreros. Grabamos también sobre Frikadas varias que nos gustan como series, películas y videojuegos. Utilizamos iPhone y Android. Fran - @franciscomalaka y Juan - @Purojota frikismopuro@gmx.es</description>
+    <itunes:summary>Somos unos apasionados de la tecnología, geeks y cacharreros. Grabamos también sobre Frikadas varias que nos gustan como series, películas y videojuegos. Utilizamos iPhone y Android. Fran - @franciscomalaka y Juan - @Purojota — frikismopuro@gmx.es</itunes:summary>
+    <description>Somos unos apasionados de la tecnología, geeks y cacharreros. Grabamos también sobre Frikadas varias que nos gustan como series, películas y videojuegos. Utilizamos iPhone y Android. Fran - @franciscomalaka y Juan - @Purojota — frikismopuro@gmx.es</description>
+
+    <!-- EXPLICIT A NIVEL DE CANAL -->
     <itunes:explicit>no</itunes:explicit>
 
     <!-- PROPIETARIO -->
@@ -25,11 +27,14 @@
       <itunes:email>frikismopuro@gmx.es</itunes:email>
     </itunes:owner>
 
-    <!-- CATEGORÍA -->
+    <!-- CATEGORÍA PRINCIPAL -->
     <itunes:category text="Technology" />
 
-    <!-- PORTADA GENERAL -->
+    <!-- PORTADA DEL PODCAST -->
     <itunes:image href="https://archive.org/download/portada_20251124/portada.jpg" />
+
+    <!-- GUID DEL PODCAST PARA EL NAMESPACE PODCAST -->
+    <podcast:guid>frikismopuro.github.io/fp</podcast:guid>
 
     <!-- EPISODIO 11x11 -->
     <item>
@@ -40,11 +45,16 @@ Link Amazon: https://amzn.to/35q5ixk
 Link de Patreon: https://www.patreon.com/FrikismoPuro
 Link de Telegram: https://t.me/FrikismoPuro_Comentarios</description>
 
+      <!-- FECHA DEL EPISODIO -->
       <pubDate>Mon, 24 Nov 2025 10:00:00 +0000</pubDate>
 
-      <guid isPermaLink="false">https://archive.org/download/podcast-11_202511/Podcast%2011.m4a</guid>
-      <enclosure url="https://archive.org/download/podcast-11_202511/Podcast%2011.m4a" type="audio/mp4" />
+      <!-- AUDIO EN ARCHIVE.ORG -->
+      <guid isPermaLink="false">https://archive.org/download/podcast-11_202511/Podcast11.m4a</guid>
+      <enclosure url="https://archive.org/download/podcast-11_202511/Podcast11.m4a"
+                 type="audio/mp4" />
 
+      <!-- EXPLICIT A NIVEL DE EPISODIO -->
+      <!-- <itunes:explicit>no</itunes:explicit> -->
     </item>
 
   </channel>
