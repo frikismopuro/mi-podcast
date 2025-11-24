@@ -3,6 +3,7 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://frikismopuro.github.io/fp/feed.xml" />
 
     <!-- DATOS GENERALES DEL PODCAST -->
     <title>Frikismo Puro</title>
