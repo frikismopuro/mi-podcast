@@ -3,7 +3,7 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+     xmlns:podcast="http://podcastindex.org/namespace/1.0">
 
   <channel>
     <!-- URL DEL PROPIO FEED -->
@@ -52,9 +52,7 @@ Link de Telegram: https://t.me/FrikismoPuro_Comentarios</description>
       <guid isPermaLink="false">https://archive.org/download/podcast-11_202511/Podcast11.m4a</guid>
       <enclosure url="https://archive.org/download/podcast-11_202511/Podcast11.m4a"
                  type="audio/mp4" />
-
-      <!-- EXPLICIT A NIVEL DE EPISODIO -->
-      <!-- <itunes:explicit>no</itunes:explicit> -->
+         
     </item>
 
   </channel>
