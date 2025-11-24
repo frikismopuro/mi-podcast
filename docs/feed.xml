@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:media="http://search.yahoo.com/mrss/">
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
   <channel>
+
+    <!-- URL DEL PROPIO FEED -->
     <atom:link rel="self" type="application/rss+xml" href="https://frikismopuro.github.io/fp/feed.xml" />
 
     <!-- DATOS GENERALES DEL PODCAST -->
@@ -11,17 +15,17 @@
     <language>es-es</language>
 
     <itunes:author>Frikismo Puro</itunes:author>
-    <itunes:summary>Somos unos apasionados de la tecnología, geeks y cacharreros. Grabamos también sobre Frikadas varias que nos gustan como series, películas y videojuegos. Utilizamos iPhone y Android. Fran - @franciscomalaka y Juan - @Purojota frikismopuro@gmx.es</itunes:summary>
-    <description>Somos unos apasionados de la tecnología, geeks y cacharreros. Grabamos también sobre Frikadas varias que nos gustan como series, películas y videojuegos. Utilizamos iPhone y Android. Fran - @franciscomalaka y Juan - @Purojota frikismopuro@gmx.es</description>
+    <itunes:summary>Somos unos apasionados de la tecnología, geeks y cacharreros. Grabamos también sobre Frikadas varias que nos gustan como series, películas y videojuegos. Utilizamos iPhone y Android. Fran - @franciscomalaka y Juan - @Purojota — frikismopuro@gmx.es</itunes:summary>
+    <description>Somos unos apasionados de la tecnología, geeks y cacharreros. Grabamos también sobre Frikadas varias que nos gustan como series, películas y videojuegos. Utilizamos iPhone y Android. Fran - @franciscomalaka y Juan - @Purojota — frikismopuro@gmx.es</description>
     <itunes:explicit>no</itunes:explicit>
 
-    <!-- PROPIETARIO -->
+    <!-- PROPIETARIO DEL PODCAST -->
     <itunes:owner>
       <itunes:name>Frikismo Puro</itunes:name>
       <itunes:email>frikismopuro@gmx.es</itunes:email>
     </itunes:owner>
 
-    <!-- CATEGORÍA -->
+    <!-- CATEGORÍA PRINCIPAL -->
     <itunes:category text="Technology" />
 
     <!-- PORTADA GENERAL DEL PODCAST -->
@@ -39,9 +43,9 @@ Link de Telegram: https://t.me/FrikismoPuro_Comentarios</description>
       <!-- FECHA EN FORMATO RFC 2822 -->
       <pubDate>Mon, 24 Nov 2025 10:00:00 +0000</pubDate>
 
-      <!-- AUDIO EN ARCHIVE.ORG -->
-      <guid isPermaLink="false">https://archive.org/download/podcast-11_202511/Podcast2011.m4a</guid>
-      <enclosure url="https://archive.org/download/podcast-11_202511/Podcast2011.m4a"
+      <!-- AUDIO EN ARCHIVE.ORG (URL CORREGIDA) -->
+      <guid isPermaLink="false">https://archive.org/download/podcast-11_202511/Podcast11.m4a</guid>
+      <enclosure url="https://archive.org/download/podcast-11_202511/Podcast11.m4a"
                  type="audio/mp4" />
 
       <itunes:explicit>no</itunes:explicit>
