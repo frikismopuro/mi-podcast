@@ -49,8 +49,8 @@ Link de Telegram: https://t.me/FrikismoPuro_Comentarios</description>
       <pubDate>Mon, 24 Nov 2025 10:00:00 +0000</pubDate>
 
       <!-- AUDIO EN ARCHIVE.ORG -->
-      <guid isPermaLink="false">https://archive.org/download/podcast-11_202511/Podcast11.m4a</guid>
-      <enclosure url="https://archive.org/download/podcast-11_202511/Podcast11.m4a"
+      <guid isPermaLink="false">https://archive.org/download/podcast-11_202511/Podcast%2011.m4a</guid>
+      <enclosure url="https://archive.org/download/podcast-11_202511/Podcast%2011.m4a"
                  type="audio/mp4" />
          
       <itunes:explicit>no</itunes:explicit>  
