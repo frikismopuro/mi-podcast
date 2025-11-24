@@ -1,1 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
 
+    <!-- DATOS GENERALES DEL PODCAST -->
+    <title>Frikismo Puro</title>
+    <link>https://frikismopuro.github.io/mi-podcast/</link>
+    <language>es-es</language>
+
+    <itunes:author>Frikismo Puro</itunes:author>
+    <itunes:summary>
+Somos unos apasionados de la tecnología, geeks y cacharreros. Grabamos también sobre Frikadas varias que nos gustan como series, películas y videojuegos. Utilizamos iPhone y Android. Fran - @franciscomalaka y Juan - @Purojota frikismopuro@gmx.es
+    </itunes:summary>
+    <description>
+Somos unos apasionados de la tecnología, geeks y cacharreros. Grabamos también sobre Frikadas varias que nos gustan como series, películas y videojuegos. Utilizamos iPhone y Android. Fran - @franciscomalaka y Juan - @Purojota frikismopuro@gmx.es
+    </description>
+    <itunes:explicit>no</itunes:explicit>
+
+    <!-- PROPIETARIO (REQUERIDO POR APPLE) -->
+    <itunes:owner>
+      <itunes:name>Frikismo Puro</itunes:name>
+      <itunes:email>frikismopuro@gmx.es</itunes:email>
+    </itunes:owner>
+
+    <!-- CATEGORÍA -->
+    <itunes:category text="Technology" />
+
+    <!-- PORTADA GENERAL DEL PODCAST -->
+    <itunes:image href="https://frikismopuro.github.io/mi-podcast/portada.png" />
+
+    <!-- EPISODIO 11x11 -->
+    <item>
+      <title>Frikismo Puro 11x11: Compartamos amores, lagrimas y sonrisas</title>
+      <description>El mundo quiere ser mejor, Google quiere darnos felicidad pero la malvada Apple no quiere cambiar las reglas del juego.... Esto que parece la trama de una película de serie B es uno de los temas candentes de la semana... no te lo pierdas!. Además de eso, hablamos de IA, caídas de internet, los GOTY y mas temas que seguro que te van a sorprender.
+      Para mas información: www.frikismopuro.com
+      Link Amazon: https://amzn.to/35q5ixk
+      Link de Patreon: https://www.patreon.com/FrikismoPuro
+      Link de Telegram: https://t.me/FrikismoPuro_Comentarios</description>
+
+      <!-- FECHA EN FORMATO RFC 2822 -->
+      <pubDate>Mon, 24 Nov 2025 10:00:00 +0000</pubDate>
+
+      <!-- AUDIO EN ARCHIVE.ORG -->
+      <guid isPermaLink="false">https://archive.org/download/podcast-11_202511/Podcast%2011.m4a</guid>
+      <enclosure url="https://archive.org/download/podcast-11_202511/Podcast%2011.m4a"
+                 type="audio/mp4" />
+
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
