@@ -34,7 +34,7 @@
     <itunes:image href="https://raw.githubusercontent.com/frikismopuro/fp/d37ae8723a2cb87bd72e754b1c5d974cc3783baf/docs/portada.jpg" />
 
     <!-- GUID DEL PODCAST PARA EL NAMESPACE PODCAST -->
-    <podcast:guid>frikismopuro.github.io/fp</podcast:guid>
+    <podcast:guid>frikismopuro.com</podcast:guid>
 
     <!-- EPISODIO 11x11 -->
     <item>
