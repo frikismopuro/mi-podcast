@@ -53,6 +53,7 @@ Link de Telegram: https://t.me/FrikismoPuro_Comentarios</description>
       <enclosure url="https://archive.org/download/podcast-11_202511/Podcast11.m4a"
                  type="audio/mp4" />
          
+      <itunes:explicit>yes</itunes:explicit>  
     </item>
 
   </channel>
