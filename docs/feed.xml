@@ -56,5 +56,27 @@ Link de Telegram: https://t.me/FrikismoPuro_Comentarios</description>
       <itunes:explicit>no</itunes:explicit>  
     </item>
 
+<!-- EPISODIO 11x12 -->
+    <item>
+      <title>Frikismo Puro 11x12: Tecnología mas cara para vernos mas guapos</title>
+      <description>Vemos como nos van subiendo los precios de la tecnología con RAM mas cara, subida en tarifas y encarecimiento de servicios y no nos gusta nada. Hasta donde vamos a llegar? Explotará la paciencia de los consumidores ante los elevados precios? Lo lamentable de esto es que estamos demasiado metidos en el uso de esos productos y pueden seguir abusando...
+Quieres darnos tu opinión? Entra en nuestros métodos de contacto y exprésate!
+Para mas información: www.frikismopuro.com
+Link Amazon: https://amzn.to/35q5ixk
+Link de Patreon: https://www.patreon.com/FrikismoPuro
+Link de Telegram: https://t.me/FrikismoPuro_Comentarios
+FEED NUEVO SIN PUBLICIDAD!: https://frikismopuro.github.io/fp/feed.xml</description>
+
+      <!-- FECHA DEL EPISODIO -->
+      <pubDate>Sun, 30 Nov 2025 14:40:00 +0000</pubDate>
+
+      <!-- AUDIO EN ARCHIVE.ORG -->
+      <guid isPermaLink="false">https://archive.org/download/podcast-11x-12/Podcast11x12.m4a</guid>
+      <enclosure url="https://archive.org/download/podcast-11x-12/Podcast11x12.m4a"
+                 type="audio/mp4" />
+         
+      <itunes:explicit>no</itunes:explicit>  
+    </item>
+       
   </channel>
 </rss>
